@@ -89,7 +89,9 @@ namespace BackToTheBook
             //Console.WriteLine(Multiply(4, 6));
             //Console.ReadLine();
 
-            Console.WriteLine(Multiply(4, 2, 9));
+            Multiply(3, 9);
+
+            Console.WriteLine(Multiply(4, 2, 9, 3));
             Console.ReadLine();
 
 
@@ -214,6 +216,13 @@ namespace BackToTheBook
             }
         }
 
+
+        /// <summary>
+        /// Method multiplies 2 nums and returns the results
+        /// </summary>
+        /// <param name="a">First num to be multiplied</param>
+        /// <param name="b">2nd num to be multiplied</param>
+        /// <returns>Product of a * b</returns>
         static int Multiply(int a, int b)
         {
             return a * b;
@@ -226,9 +235,9 @@ namespace BackToTheBook
         /// <param name="b">2nd num to multiply</param>
         /// <param name="c">3rd num to multiply</param>
         /// <returns>The product of 3 input numbers</returns>
-        static int Multiply(int a, int b, int c)
+        static int Multiply(int a, int b, int c, int d)
         {
-            return a * b * c;
+            return a * b * c * d;
         }
 
 
