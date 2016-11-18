@@ -1,0 +1,6 @@
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\BackToTheBook\BackToTheBook\bin\Debug\BackToTheBook.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\BackToTheBook\BackToTheBook\bin\Debug\BackToTheBook.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\BackToTheBook\BackToTheBook\bin\Debug\BackToTheBook.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\BackToTheBook\BackToTheBook\obj\Debug\BackToTheBook.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\BackToTheBook\BackToTheBook\obj\Debug\BackToTheBook.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\BackToTheBook\BackToTheBook\obj\Debug\BackToTheBook.pdb
