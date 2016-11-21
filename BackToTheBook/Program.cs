@@ -11,6 +11,24 @@ namespace BackToTheBook
         static void Main(string[] args)
         {
 
+            Player player1 = new Player();           
+            player1.Score = 50;
+            int currentScore = player1.Score;
+            Console.WriteLine("Player 1's score is: " + currentScore);
+
+            Book myBook = new Book("Based on a True Story");
+            myBook.Author = "Norm McDonald";
+            myBook.Pages = 265;
+            myBook.WordCount = 20000;
+
+            myBook.AssignWordCountFromText(
+                "Here is the text I'm entering to test out the word count method of the Book class"
+                );
+
+            Console.WriteLine(myBook.WordCount);
+
+            Book myOtherBook = new Book("Mindset", "Dr. Carol Dweck");
+
             //int numberThatCausesProblems = 54;
             //for (int i = 1; i <= 100; i++)
             //{
